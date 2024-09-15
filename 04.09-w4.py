@@ -1,5 +1,5 @@
 #start
-from main import rsult
+
 
 x : int= int (input("number one "))
 
